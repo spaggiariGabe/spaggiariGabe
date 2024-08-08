@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tecnology, Music and Games.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Php, Sql, html, css.
-- 📫 How to reach me [...](https://www.linkedin.com/in/gabriel-spaggiari-a7b52521b/) or Instagram @spaggiarigabriel
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gabriel-spaggiari-a7b52521b/) or Instagram [@spaggiarigabriel](https://www.instagram.com/spaggiarigabriel/?hl=pt-br)
 - 😄 Pronouns: he/him.
 
 <!---
